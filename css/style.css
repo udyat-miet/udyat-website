@@ -6,7 +6,7 @@ body {
 }
 
 a {
-    color: #03c4eb;
+    colour: #03c4eb;
     transition: 0.5s;
 }
 
@@ -30,7 +30,7 @@ h4,
 h5,
 h6 {
     font-family: "Raleway", sans-serif;
-    font-weight: 400;
+    font-weight: ;
     margin: 0 0 20px 0;
     padding: 0;
 }
@@ -488,4 +488,4 @@ canvas {
     100% {
         background-position: 0% 0%;
     }
-}
+
