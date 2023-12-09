@@ -17,7 +17,7 @@ cd UdyatMIET
 - Open up the HTML file in the browser
 
 
-### [Live Site](udyatmiet.netlify.app)
+### [Live Site](https://udyatmiet.netlify.app)
 
 ## Autor
 
