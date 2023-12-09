@@ -2,7 +2,7 @@
 This is the official website of Udyat. 
 Here you can find stuff like event details, team contacts and glimpse of Udyat culture. 
 
-## Technoloies used -
+## Technologies used -
 - HTML
 - CSS
 - JavaScript
