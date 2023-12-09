@@ -17,7 +17,7 @@ cd UdyatMIET
 - Open up the HTML file in the browser
 
 
-### [Live Site](https://portfolio-template-io.netlify.app/)
+### [Live Site](udyatmiet.netlify.app)
 
 ## Autor
 
